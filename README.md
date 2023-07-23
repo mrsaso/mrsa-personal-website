@@ -6,7 +6,7 @@ Hey! Finally got around to curating my website. Excited to get some content up a
 <br>
 
 ## What I'm Using: Astrofy, Personal Porfolio Website Template
-I am using a portfolio website template curated by Manual Ernesto. **Here's some info if you are looking to develop your own:**
+I am using a portfolio website template curated by Manual Ernesto. <br> **Here's some info if you are looking to develop your own:**
 
 <br>
 
